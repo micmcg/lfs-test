@@ -1,3 +1,15 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:93a6278c77273730fa939984f2d0e033aed3b5811266bf87f00ae01b613ebaef
-size 135830
+total 168
+drwxr-xr-x  14 mmcglynn  staff    476 25 Nov 14:17 .
+drwxr-xr-x   4 mmcglynn  staff    136 25 Nov 14:17 ..
+-rw-r--r--   1 mmcglynn  staff     80 25 Nov 14:17 .npmignore
+-rw-r--r--   1 mmcglynn  staff     48 25 Nov 14:17 .travis.yml
+-rw-r--r--   1 mmcglynn  staff  41137 25 Nov 14:17 History.md
+-rw-r--r--   1 mmcglynn  staff   1102 25 Nov 14:17 LICENSE
+-rw-r--r--   1 mmcglynn  staff    558 25 Nov 14:17 Makefile
+-rw-r--r--   1 mmcglynn  staff   5776 25 Nov 14:17 Readme.md
+drwxr-xr-x   3 mmcglynn  staff    102 25 Nov 14:17 bin
+-rw-r--r--   1 mmcglynn  staff    104 25 Nov 14:17 index.js
+drwxr-xr-x  10 mmcglynn  staff    340 25 Nov 14:17 lib
+drwxr-xr-x  13 mmcglynn  staff    442 25 Nov 14:17 node_modules
+-rw-r--r--   1 mmcglynn  staff   7794 25 Nov 14:17 package.json
+-rw-r--r--   1 mmcglynn  staff    206 25 Nov 14:17 test.js
