@@ -1,20 +1,20 @@
 total 209984
-drwxr-xr-x  19 mmcglynn  staff       646  1 Dec 14:54 .
-drwxr-xr-x  74 mmcglynn  staff      2516 25 Nov 14:16 ..
-drwxr-xr-x  13 mmcglynn  staff       442  1 Dec 14:54 .git
--rw-r-----   1 mmcglynn  staff       169  1 Dec 11:22 .gitattributes
--rw-r--r--   1 mmcglynn  staff       263 25 Nov 14:17 README.md
--rw-r--r--   1 mmcglynn  staff   1048576  1 Dec 11:22 bigfile.bin
--rw-r--r--@  1 mmcglynn  staff   1791633 12 Dec  2014 choice-ceiling-fans.pdf
-drwxr-xr-x   3 mmcglynn  staff       102 25 Nov 14:17 css
--rw-r-----@  1 mmcglynn  staff  20427045  6 Nov 16:57 dulwich hill precinct land use and infrastructure analysis 2015 10.pdf
--rw-r--r--@  1 mmcglynn  staff  44568400 26 Nov 14:38 hs-2015-02-a-hires_jpg.tiff
--rwxr-xr-x   1 mmcglynn  staff       582 25 Nov 14:17 index.html
--rw-r--r--@  1 mmcglynn  staff   6764154 26 Nov 15:00 large.jpg
--rw-r--r--   1 mmcglynn  staff         0  1 Dec 14:54 listing.log
-drwxr-xr-x   4 mmcglynn  staff       136 25 Nov 14:17 node_modules
--rwxr-xr-x@  1 mmcglynn  staff   3284257 17 Oct  2005 sample_iTunes.mov
--rw-r--r--@  1 mmcglynn  staff    245779  4 Nov  2005 sample_mpeg4.mp4
-drwxr-xr-x   4 mmcglynn  staff       136 25 Nov 14:17 scripts
--rw-r--r--   1 mmcglynn  staff       546 25 Nov 14:17 server.js
--rw-r-----@  1 mmcglynn  staff  29350102  2 Sep  2014 youblisher.com-967125-Ciao_Magazine_241.pdf
+drwxr-xr-x  19 mmcglynn  staff   646B  1 Dec 14:54 .
+drwxr-xr-x  74 mmcglynn  staff   2.5K 25 Nov 14:16 ..
+drwxr-xr-x  13 mmcglynn  staff   442B  1 Dec 14:55 .git
+-rw-r-----   1 mmcglynn  staff   169B  1 Dec 11:22 .gitattributes
+-rw-r--r--   1 mmcglynn  staff   263B 25 Nov 14:17 README.md
+-rw-r--r--   1 mmcglynn  staff   1.0M  1 Dec 11:22 bigfile.bin
+-rw-r--r--@  1 mmcglynn  staff   1.7M 12 Dec  2014 choice-ceiling-fans.pdf
+drwxr-xr-x   3 mmcglynn  staff   102B 25 Nov 14:17 css
+-rw-r-----@  1 mmcglynn  staff    19M  6 Nov 16:57 dulwich hill precinct land use and infrastructure analysis 2015 10.pdf
+-rw-r--r--@  1 mmcglynn  staff    43M 26 Nov 14:38 hs-2015-02-a-hires_jpg.tiff
+-rwxr-xr-x   1 mmcglynn  staff   582B 25 Nov 14:17 index.html
+-rw-r--r--@  1 mmcglynn  staff   6.5M 26 Nov 15:00 large.jpg
+-rw-r--r--   1 mmcglynn  staff     0B  1 Dec 14:55 listing.log
+drwxr-xr-x   4 mmcglynn  staff   136B 25 Nov 14:17 node_modules
+-rwxr-xr-x@  1 mmcglynn  staff   3.1M 17 Oct  2005 sample_iTunes.mov
+-rw-r--r--@  1 mmcglynn  staff   240K  4 Nov  2005 sample_mpeg4.mp4
+drwxr-xr-x   4 mmcglynn  staff   136B 25 Nov 14:17 scripts
+-rw-r--r--   1 mmcglynn  staff   546B 25 Nov 14:17 server.js
+-rw-r-----@  1 mmcglynn  staff    28M  2 Sep  2014 youblisher.com-967125-Ciao_Magazine_241.pdf
